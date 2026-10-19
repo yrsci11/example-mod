@@ -1,15 +1,11 @@
-
 {
     "geode": "5.11.2",
     "gd": {
-        "win": "2.2074",
-        "android": "2.2074",
-        "mac": "2.2074",
-        "ios": "2.2074"
+        "android": "2.2081"
     },
     "id": "example.mod",
     "name": "Example Mod",
     "version": "v1.0.0",
-    "developer": "Developer",
-    "description": "My Geometry Dash Geode mod"
+    "developer": "YourName",
+    "description": "My first Geometry Dash mod."
 }
